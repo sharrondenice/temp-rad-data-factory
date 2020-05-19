@@ -1,1 +1,0 @@
-# temp-rad-data-factory
